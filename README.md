@@ -25,5 +25,7 @@ Launch chat server:
 
 Open this URL in your browser:
 
-    http://localhost:4200//
+    http://localhost:4200// 
+    to see the coomunication between the 2 device open this link in 2 browsers   http://localhost:4200// 
+    insusre that the chat room  name are the same in order to see the realtime messages coming through
     
