@@ -7,7 +7,7 @@ Built with:
 
 ### Get the code
 
-    git clone https://github.com/kaganecee/nodejs-chat-app.git
+    git clone https://github.com/baloyijs/realtime-messaging.git
 
 ### Run
 
