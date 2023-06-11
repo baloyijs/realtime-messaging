@@ -17,6 +17,8 @@ Fetch dependencies:
 
 Launch chat server:
 
+    npm start
+    or
     npm run dev
     or 
     node src/index.js
